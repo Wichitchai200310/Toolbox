@@ -1,15 +1,25 @@
 การสอบของ DSToolBox
 
 จริงๆต้องสร้างgit
+
 ลบ git
+
 Clone git
+
 สร้างเจค+สภาพแวดล้อม
+
 เปิดใช้สภาพแวดล้อม
+
 ติดตั้ง django
+
 สร้างdjango startapp myapp
+
 สร้างเจค A-E ตามที่ได้
+
 อัพขึ้น branch function…
+
 สร้าง docker
+
 รัน docker
 
 1.สร้าง repository ใหม่ "รหัสประจำตัว-ฟังก์ชัน" พร้อม .gitignore
